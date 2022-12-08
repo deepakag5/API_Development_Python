@@ -1,4 +1,4 @@
-certifi==2019.3.9
+certifi==2022.12.7
 Django==2.0.5
 djangorestframework==3.9.2
 pytz==2018.9
